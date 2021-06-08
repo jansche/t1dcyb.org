@@ -38,3 +38,9 @@ theme = "hallo-hugo"
 		icon = "linkedin"
 		title = "LinkedIn"
 		url = "https://linkedin.com/in/janschenk"
+
+    [[params.links]]
+		iconset = "fas"
+		icon = "file-alt"
+		title = "Curriculum Vitae"
+		url = "https://1drv.ms/b/s!At12bDU_KhltxssnIicp96AG8NNFBQ?e=mEtvh0"
