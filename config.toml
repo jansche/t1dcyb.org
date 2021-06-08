@@ -1,0 +1,40 @@
+baseURL = "https://t1dcyb.org/"
+languageCode = "en-us"
+title = "Hello, I'm Jan"
+theme = "hallo-hugo"
+[Author]
+	name = "Jan (he/him)"
+[params]
+	greeting = "Hey."
+
+    [params.colors]
+        background = "#0073cf"
+        foreground = "#fff"
+        hover = "#ccc"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "info-circle"
+        title = "More about being a T1D Cyborg"
+        url = "#info"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/jansche"
+
+    [[params.links]]
+		iconset = "fas"
+		icon = "envelope"
+		title = "Email"
+		url = "mailto:jan@t1dcyb.org"
+
+    [[params.links]]
+		icon = "twitter"
+		title = "Twitter"
+		url = "https://twitter.com/jansche"
+
+    [[params.links]]
+		icon = "linkedin"
+		title = "LinkedIn"
+		url = "https://linkedin.com/in/janschenk"
