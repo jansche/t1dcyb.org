@@ -13,12 +13,6 @@ theme = "hallo-hugo"
         hover = "#ccc"
 
     [[params.links]]
-        iconset = "fas"
-        icon = "info-circle"
-        title = "More about being a T1D Cyborg"
-        url = "#info"
-
-    [[params.links]]
         icon = "github"
         title = "Github"
         url = "https://github.com/jansche"
@@ -44,3 +38,9 @@ theme = "hallo-hugo"
 		icon = "file-alt"
 		title = "Curriculum Vitae"
 		url = "https://1drv.ms/b/s!At12bDU_KhltxssnIicp96AG8NNFBQ?e=mEtvh0"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "info-circle"
+        title = "More about being a T1D Cyborg"
+        url = "#info"
